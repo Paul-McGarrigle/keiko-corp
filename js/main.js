@@ -135,13 +135,6 @@ $(document).ready(function(){
 			$('#mc_submit i').removeClass(hide).addClass(show);
 	}
 
-
-
-
-
-
-
-
 	//Popup video
 	$('#play_video').click(function(e){
 		e.preventDefault();	
